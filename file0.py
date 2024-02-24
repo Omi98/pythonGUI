@@ -1,3 +1,5 @@
+# simple window
+
 from tkinter import *
 
 
